@@ -31,5 +31,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 And we will together make it great.
 
 ## License
-This project is licensed under [MIT](https://choosealicense.com/licenses/mit/) License
+This project is licensed under [MIT](https://github.com/himanshu27tasveer/Dorami/blob/master/LICENSE) License
 
